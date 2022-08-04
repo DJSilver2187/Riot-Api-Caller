@@ -1,4 +1,4 @@
-##Development Setup
+###Development Setup
 1. Open a shell in the venv folder
 2. type .\activate to active the virtual environment
 3. Open app.py and provide a Riot Games API key
